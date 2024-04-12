@@ -3,12 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
-html {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 body {
   background: #eee;
   padding: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .container {
   width: 360px;
